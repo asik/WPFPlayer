@@ -1,0 +1,1 @@
+This program is just an excuse for me to play with libavcodec. It successfully plays back at least certain videos (tested with H264 .avi and .mp4), sound excluded, in a WPF window.
